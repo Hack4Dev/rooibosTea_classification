@@ -2,7 +2,7 @@
 An educational tutorial that is based on rooibos tea data. The tutorials run through data visualization, data correlation, and finally performing binary classification on fermented and non-fermented rooibos data using basic statistical methods and some machine learning tools.
 
 ### This repo has three notebooks:
-1. data visualisation
+1. data visualization
 2. data correlation
 3. data classification (coming soon)
 
