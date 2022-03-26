@@ -72,7 +72,7 @@ def p_value (coeff, sd): # I need some explnation here, is this name "p_value" c
 
 
 
-def draw_Confidence_ellipse (xFer, yFer, xNF, yNF, xaxis, yaxis, sol, xl, yl):
+def draw_confidence_ellipse (xFer, yFer, xNF, yNF, xaxis, yaxis, sol, xl, yl):
     fig, ax_nstd = plt.subplots(figsize=(8, 8))
 
 
