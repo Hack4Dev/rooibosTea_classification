@@ -4,8 +4,12 @@ An educational tutorial that is based on rooibos tea data. The tutorials run thr
 ### This repo has three notebooks:
 1. data visualization
 2. data correlation
-3. data classification (coming soon)
+3. stats_classification
+4. ml_classification
 
+### in case you found difficulty dealing with python when working on the tutorials, please check the following links:
+1.https://www.sololearn.com/learning/1073
+2.https://problemsolvingwithpython.com/
 
 #### If you make use of this code in preparing results for a paper, please Cite:
 
