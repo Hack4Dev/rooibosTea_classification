@@ -7,7 +7,6 @@ def jack_SD (baseTH, ml2):
     n = len(baseTH)
     
     deff = ml2-baseTH # element wise, #
-#     print(deff)
     mean_jack_stat = np.mean(deff, axis=0)
 
     
