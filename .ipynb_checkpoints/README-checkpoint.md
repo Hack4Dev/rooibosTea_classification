@@ -5,7 +5,7 @@ An educational tutorial that is based on rooibos tea data. The tutorials run thr
 1. Tutorial 1: Data visualization
 2. Tutorial 2: Data correlation
 3. Tutorial 3: Classification using simple statistics
-4. Tutorial 3: Classification using simple statistics
+4. Tutorial 4: Classification using machine learning
 
 #### In case you found difficulty dealing with python when working on the tutorials, please check the following links:
 1. https://www.sololearn.com/learning/1073 
