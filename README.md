@@ -1,16 +1,64 @@
-# rooibosTea_classification
-An educational tutorial that is based on rooibos tea data. The tutorials run through data visualization, data correlation, and finally performing binary classification on fermented and non-fermented rooibos data using basic statistical methods and some machine learning tools. The work is fairly simple, and can work on ***Google Colab!** (https://colab.research.google.com/)
+# Rooibos tea classification 
 
-### This repo has four notebooks (/rooibos/..):
-1. Tutorial 1: Data visualization
-2. Tutorial 2: Data correlation
-3. Tutorial 3: Classification using simple statistics
-4. Tutorial 4: Classification using machine learning
+## Description
 
-#### In case you found difficulty dealing with python when working on the tutorials, please check the following links:
-1. https://www.sololearn.com/learning/1073 
-2. https://problemsolvingwithpython.com/
+Welcome to the project on rooibos tea classification ! From the tutorials you will learn to do the following:
 
-#### If you make use of this code in preparing results for a paper, please Cite:
+- *Tutorial 1*: Data visualization
+- *Tutorial 2*: Data correlation
+- *Tutorial 3*: Classification using simple statistics
+- *Tutorial 4*: Classification using machine learning
 
-Hussein, E.A.; Thron, C.; Ghaziasgar, M.; Vaccari, M.; Marnewick, J.L.; Hussein, A.A. Comparison of Phenolic Content and Antioxidant Activity for Fermented and Unfermented Rooibos Samples Extracted with Water and Methanol. Plants 2022, 11, 16. https://doi.org/10.3390/plants11010016
+
+## Data
+98 randomly selected fermented (fer) (51 samples) and nonfermnted (nf) (47 samples) were kindlydonated by Rooibos LTD-BPK (Clanwilliam, South Africa) during March 2020. 
+
+
+## Hackathon Task
+From the proposed pipeline (tutorials), investigate new ways to classify between fer and nf rooibos tea
+
+
+## Prerequisites
+
+All the libraries/dependencies necessary to run the tutorials are listed in the [requirements.txt](https://github.com/Hack4Dev/rooibosTea_classification/blob/main/requirements.txt) file.
+
+
+## Installation
+
+All the required libraries can be installed using pip and the [requirements.txt](https://github.com/Hack4Dev/rooibosTea_classification/blob/main/requirements.txt) file in the repo:
+
+```bash
+> pip install -r requirements.txt
+```
+
+### Would you like to clone this repository? Feel free!
+
+```bash
+> git clone https://github.com/Hack4Dev/rooibosTea_classification.git
+```
+
+Then make sure you have the right Python libraries for the tutorials. 
+
+
+### New to Github?
+
+The easiest way to get all of the lecture and tutorial material is to clone this repository. To do this you need git installed on your laptop. If you're working on Linux you can install git using apt-get (you might need to use sudo):
+
+```
+apt install git
+```
+
+You can then clone the repository by typing:
+
+```
+git clone https://github.com/Hack4Dev/rooibosTea_classification.git
+```
+
+To update your clone if changes are made, use:
+
+```
+cd rooibosTea_classification/
+git pull
+```
+
+-----
