@@ -62,3 +62,6 @@ git pull
 ```
 
 -----
+### Original research work
+
+Hussein, E.A.; Thron, C.; Ghaziasgar, M.; Vaccari, M.; Marnewick, J.L.; Hussein, A.A. Comparison of Phenolic Content and Antioxidant Activity for Fermented and Unfermented Rooibos Samples Extracted with Water and Methanol. Plants 2022, 11, 16. [https://doi.org/10.3390/plants11010016](https://www.mdpi.com/2223-7747/11/1/16)
